@@ -1940,7 +1940,7 @@
    */
   Owl.prototype.isNumeric = function (number) {
     return !isNaN(parseFloat(number));
-  };
+  }; 
 
   /**
    * Gets the difference of two vectors.
